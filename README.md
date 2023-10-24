@@ -9,7 +9,7 @@ Me destaco por el buen trabajo en equipo, la rápida toma de decisiones y el bue
 - 🔭 Mi principal enfoque es crear un impacto positivo en un ámbito laboral, aprovechando mis conocimientos y colaborando con un equipo.
 - 🌱 En la actualidad, me enfoco en proyectos que me permiten perfeccionar mis habilidades de programación y seguir avanzando en mi desarrollo profesional.
 
-### Tecnologias que conozco👨🏻‍💻
+### Tecnologias que conozco👩🏻‍💻
 
 • JavaScript
 • React.js
